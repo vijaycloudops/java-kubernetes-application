@@ -1,6 +1,6 @@
 # Simple Kubernetes Nginx Deployment
 
-A beginner-friendly Kubernetes project that deploys an Nginx web server using Kubernetes manifests. It demonstrates namespaces, Deployments, Pods, Services, labels, resource requests/limits, and health probes.
+Kubernetes project that deploys an Nginx web server using Kubernetes manifests. It demonstrates namespaces, Deployments, Pods, Services, labels, resource requests/limits, and health probes.
 
 ## What this project creates
 
